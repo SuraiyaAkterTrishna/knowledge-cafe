@@ -1,0 +1,46 @@
+[
+    {
+      "id": "1",
+      "title": "How to get your first job as a self-taught programmer",
+      "author_name": "Nancy Aguilar",
+      "img": "https://i.ibb.co/cvMb2wd/2.png",
+      "author_img": "https://i.ibb.co/Mn7rVhL/person1.png",
+      "read_time": 5,
+      "publish_date": "Mar 14 (4 days age)"
+    },
+    {
+      "id": "2",
+      "title": "How to make your first CV as a self-taught programmer",
+      "author_name": "Wyatt Davis",
+      "img": "https://i.ibb.co/T8R7LWc/4.jpg",
+      "author_img": "https://i.ibb.co/C8cPwk3/person2.jpg",
+      "read_time": 10,
+      "publish_date": "Mar 13 (5 days age)"
+    },
+    {
+      "id": "3",
+      "title": "How to make your first Portfolio as a self-taught programmer",
+      "author_name": "Iris Wilkerson",
+      "img": "https://i.ibb.co/82nFxnF/1.jpg",
+      "author_img": "https://i.ibb.co/3m90hsr/person3.jpg",
+      "read_time": 15,
+      "publish_date": "Mar 8 (10 days age)"
+    },
+    {
+      "id": "4",
+      "title": "How to make your first interview awesome as a self-taught programmer",
+      "author_name": "Suzette Nicholson",
+      "img": "https://i.ibb.co/4T8xscf/3.png",
+      "author_img": "https://i.ibb.co/LZ8zJBL/person4.jpg",
+      "read_time": 30,
+      "publish_date": "Mar 6 (12 days age)"
+    }
+  ]
+
+  
+
+
+
+
+
+
